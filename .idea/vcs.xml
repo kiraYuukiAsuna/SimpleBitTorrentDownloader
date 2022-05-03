@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ThirdParty/bencode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThirdParty/bencode.hpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThirdParty/cpr-1.8.2/cpr-1.8.2/build/_deps/zlib-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThirdParty/curl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ThirdParty/curl/新建文件夹" vcs="Git" />
+  </component>
+</project>

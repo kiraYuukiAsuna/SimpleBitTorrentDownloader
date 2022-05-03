@@ -1,0 +1,30 @@
+d
+    8:announce
+        35:https://torrent.ubuntu.com/announce
+    13:announce-list
+    l
+        l
+            35:https://torrent.ubuntu.com/announce
+        e
+        l
+            40:https://ipv6.torrent.ubuntu.com/announce
+        e
+    e
+    7:comment
+        29:Ubuntu CD releases.ubuntu.com
+    10:created by
+        13:mktorrent 1.1
+    13:creation date
+        i1650550976e
+    4:info
+    d
+        6:length
+            i3654957056e
+        4:name
+            30:ubuntu-22.04-desktop-amd64.iso
+        12:piece length
+            i262144e
+        6:pieces
+            278860:(字符串长度为278860的二进制数据)
+    e
+e
